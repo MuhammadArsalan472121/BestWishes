@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Happy_Engagement_Kiran.app"
-               BlueprintName = "Happy_Engagement_Kiran"
-               ReferencedContainer = "container:Happy_Engagement_Kiran.xcodeproj">
+               BuildableName = "Happy_Engagement.app"
+               BlueprintName = "Happy_Engagement"
+               ReferencedContainer = "container:Happy_Engagement.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "Happy_Engagement_KiranTests.xctest"
-               BlueprintName = "Happy_Engagement_KiranTests"
-               ReferencedContainer = "container:Happy_Engagement_Kiran.xcodeproj">
+               BuildableName = "Happy_EngagementTests.xctest"
+               BlueprintName = "Happy_EngagementTests"
+               ReferencedContainer = "container:Happy_Engagement.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Happy_Engagement_Kiran.app"
-            BlueprintName = "Happy_Engagement_Kiran"
-            ReferencedContainer = "container:Happy_Engagement_Kiran.xcodeproj">
+            BuildableName = "Happy_Engagement.app"
+            BlueprintName = "Happy_Engagement"
+            ReferencedContainer = "container:Happy_Engagement.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Happy_Engagement_Kiran.app"
-            BlueprintName = "Happy_Engagement_Kiran"
-            ReferencedContainer = "container:Happy_Engagement_Kiran.xcodeproj">
+            BuildableName = "Happy_Engagement.app"
+            BlueprintName = "Happy_Engagement"
+            ReferencedContainer = "container:Happy_Engagement.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
